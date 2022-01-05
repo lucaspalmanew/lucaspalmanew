@@ -4,8 +4,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas em busca de oportunidade
 <br>
 <div align="center">
   <a href="https://github.com/lucaspalmanew">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaspalmanew&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspalmanew&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaspalmanew&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspalmanew&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
   
   ##
