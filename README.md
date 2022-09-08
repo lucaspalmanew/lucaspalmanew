@@ -1,5 +1,5 @@
 ## <div align="center">Olá, meu nome é Lucas Palma.
-Sou estudante de Análise e Desenvolvimento de Sistemas em busca de oportunidades e colaboração em projetos e atuando nas áreas de tecnologia. Estou sempre animado para aprender novas tecnologias.
+Sou estudante de Análise e Desenvolvimento de Sistemas. Estou sempre animado para aprender novas tecnologias.
 <br>
 <br>
 <div align="center">
